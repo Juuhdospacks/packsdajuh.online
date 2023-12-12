@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Redirecionamento Automático</title>
+<body>
+<center>  <h2>Redirecionando em 2 segundos...</h2> </center>
+ <script>
+    setTimeout(function(){
+      window.location.href = "https://api.whatsapp.com/send?phone=5515981229741&text=Oiie%20amor%20vim%20do%20Face%2C%20vamos%20conversar%3F%20quero%20comprar%E2%9D%A4%EF%B8%8F%E2%9D%A4%EF%B8%8F";
+    }, 200); // 2000 milissegundos = 2 segundos
+  </script>
+</head>
+</body>
+</html>
